@@ -1,0 +1,286 @@
+,Make,Model,Trim,Rebate-QC,Year-QC,Catagory,Eligibility
+0,Audi,Q4 e-tron Quattro, ,"$5,000",2022,BEV,2022-04-25
+1,Audi,A3 Sportback e-tron,Progressiv Technik,"$2,500",2018,PHEV,2019-05-01
+2,BMW,330e,"RWD
+			xDrive","$2,500",2023,PHEV,2022-08-05
+3,BMW,i4,"eDrive35
+			eDrive40","$5,000",2023,BEV,2022-08-08
+4,BMW,330e,"RWD
+			xDrive","$2,500",2022,PHEV,2021-07-02
+5,BMW,i4,eDrive40,"$5,000",2022,BEV,2022-05-03
+6,BMW,X3,xDrive30e,"$2,500",2022,PHEV,2022-04-25
+7,BMW,330e,"RWD
+			xDrive","$2,500",2021,PHEV,2020-04-21
+8,BMW,i3,"Base
+			s","$5,000",2021,BEV,2020-12-21
+9,BMW,i3,"Range Extender
+			s Range Extender","$5,000",2021,PHEV,2020-12-21
+10,BMW,X3,xDrive30e,"$2,500",2021,PHEV,2022-07-25
+11,BMW,i3,"Base
+			s","$5,000",2020,BEV,2020-01-16
+12,BMW,i3,,,2020,,Empty
+13,BMW,i3,"Base
+			s","$5,000",2018/2019,BEV,2019-05-29
+14,BMW,i3,"Range Extender
+			s Range Extender","$5,000",2018/2019,PHEV,2019-05-29
+15,Chevrolet,Bolt EUV,"LT
+			Premier","$5,000",2023,BEV,2022-07-15
+16,Chevrolet,Bolt EV,LT,"$5,000",2023,BEV,2022-07-15
+17,Chevrolet,Bolt,LT,"$5,000",2022,BEV,2021-03-18
+18,Chevrolet,Bolt EUV,"LT
+			Premier","$5,000",2022,BEV,2021-03-18
+19,Chevrolet,Bolt,"LT (2LT)
+			Premier (2LZ)","$5,000",2021,BEV,2020-11-10
+20,Chevrolet,Bolt,"LT (2LT)
+			Premier (2LZ)","$5,000",2020,BEV,2019-09-16
+21,Chevrolet,Bolt,"LT (2LT)
+			Premier (2LZ)","$5,000","2018/
+			2019",BEV,2019-05-01
+22,Chevrolet,Volt,"LT (2LT)
+			Premier (2LZ)","$5,000","2018/
+			2019",PHEV,2019-05-01
+23,Chrysler,Pacifica Hybrid," Touring-L
+			Limited
+			Pinnacle","$5,000",2022,PHEV ,2021-11-25
+24,Chrysler,Pacifica Hybrid,"Touring
+			Touring-L Plus
+			Limited
+			Pinnacle","$5,000",2021,PHEV,2020-11-09
+25,Chrysler,Pacifica Hybrid,"Touring
+			Touring L
+			Limited","$5,000",2020,PHEV,2019-09-16
+26,Chrysler,Pacifica Hybrid,"Touring
+			Touring L
+			Touring Plus
+			Premium
+			Platinum
+			Limited","$5,000","2017/
+			2018/
+			2019",PHEV,2019-05-01
+27,Ford,*Escape PHEV,,,2022,,Empty
+28,Ford,Escape PHEV,"SE
+			SEL
+			Titanium","$2,500",2022,PHEV,2021-11-25
+29,Ford,Mach E,"Select RWD Standard Range
+			Select eAWD Standard Range
+			Premium RWD Standard range
+			Premium eAWD Standard range","$5,000",2022,BEV,2022-04-25
+30,Ford,*Escape PHEV,,,2021,,Empty
+31,Ford,Escape PHEV,"SE
+			SEL
+			Titanium","$2,500",2021,PHEV,2021-02-08
+32,Ford,*Escape PHEV,,,2020,,Empty
+33,Ford,Escape PHEV,"SE
+			SEL
+			Titanium","$2,500",2020,PHEV,2020-02-27
+34,Ford,Fusion Energi,"SEL
+			Titanium","$2,500",2020,PHEV,2019-08-13
+35,Ford,Fusion Energi,"SEL
+			Titanium
+			Platinum","$2,500","2018/
+			2019",PHEV,2019-05-01
+36,Ford,Focus,Electric,"$5,000",2018,BEV,2019-05-01
+37,Honda,Clarity Plug-in Hybrid,"Base
+			Touring","$5,000",2021,PHEV,2020-12-09
+38,Honda,Clarity Plug-in Hybrid,"Base
+			Touring","$5,000",2019,PHEV,2019-05-01
+39,Honda,Clarity Plug-in Hybrid,Base Touring,"$5,000",2018/2020,PHEV,2019-12-03
+40,Hyundai,Kona Electric,"Preferred
+Preferred - 2 tone
+Ultimate","$5,000",2023,BEV,2022-07-22
+41,Hyundai,*Santa Fe PHEV,,,2022,,Empty
+42,Hyundai,*Tucson PHEV,,,2022,,Empty
+43,Hyundai,IONIQ 5,"Essential
+			Preferred
+			Preferred Long Range
+			Preferred AWD Long Range","$5,000",2022,BEV,2021-11-16
+44,Hyundai,Ioniq plug-In hybrid,"Essential
+			Preferred
+			Ultimate","$2,500",2022,PHEV,2021-09-16
+45,Hyundai,Kona Electric,"Preferred
+			Preferred - 2 tone
+			Ultimate","$5,000",2022,BEV,2021-07-13
+46,Hyundai,Santa Fe PHEV,"Preferred
+			Luxury","$2,500",2022,PHEV,2021-07-12
+47,Hyundai,Tucson PHEV,"Luxury
+			Ultimate","$2,500",2022,PHEV,2021-07-20
+48,Hyundai,Ioniq electric,"Preferred
+			Ultimate","$5,000",2021,BEV,2021-01-27
+49,Hyundai,Ioniq plug-In hybrid,"Essential
+			Preferred
+			Ultimate","$2,500",2021,PHEV,2021-01-27
+50,Hyundai,Kona Electric,"Essential Preferred
+			Preferred - 2 tone Ultimate","$5,000",2021,BEV,2020-07-03
+51,Hyundai,Ioniq electric,"Preferred
+			Ultimate","$5,000",2020,BEV,2020-01-16
+52,Hyundai,Ioniq Plug-In hybrid,"Preferred
+			Ultimate","$2,500",2020,PHEV,2020-01-08
+53,Hyundai,Kona Electric,"Essential
+			Preferred
+			Preferred - 2 tone
+			Ultimate","$5,000",2020,BEV,2019-10-15
+54,Hyundai,Kona Electric,Preferred Ultimate,"$5,000",2019,BEV,2019-05-01
+55,Hyundai,Ioniq electric Plus,"SE
+			Limited","$2,500",2018,PHEV,2019-06-17
+56,Hyundai,Ioniq Electric,"SE
+			SE CCP
+			Limited","$5,000","2017/
+			2018",BEV,2019-06-17
+57,Hyundai,Sonata PHEV,Ultimate,"$2,500",2017,PHEV,2019-06-17
+58,Hyundai,Ioniq Electric,"Preferred
+			Ultimate","$5,000", 2019,BEV,2019-05-01
+59,Hyundai,Ioniq electric Plus,"Preferred
+			Ultimate","$2,500", 2019,PHEV,2019-05-01
+60,Hyundai,Sonata PHEV,Ultimate,"$2,500"," 2018/
+			2019",PHEV,2019-05-01
+61,Jeep,Wrangler 4xe,"Unlimited Sahara
+Unlimited Rubicon","$2,500",2022,PHEV,2022-04-25
+62,Jeep,Wrangler 4xe,"
+Unlimited Sahara
+Unlimited Sahara High Altitude
+Unlimited Rubicon
+","$2,500",2021,PHEV,2022-04-25
+63,Kia,*Sorento PHEV,,,2022,,Empty
+64,Kia,EV6,"RWD Standard Range
+			RWD Long Range
+			AWD Long Range","$5,000",2022,BEV,2022-02-01
+65,Kia,Niro EV,"EX
+			EX+
+			SX Touring","$5,000",2022,BEV,2021-08-17
+66,Kia,Niro PHEV,"EX
+			EX Premium
+			SX Touring","$2,500",2022,PHEV,2021-08-16
+67,Kia,Sorento PHEV,"EX
+			EX+
+			SX","$2,500",2022,PHEV,2021-09-27
+68,Kia,Soul EV,"Premium
+			Limited","$5,000",2022,BEV,2021-07-26
+69,Kia,Niro EV,"EX
+			EX+
+			SX Touring","$5,000",2021,BEV,2021-03-12
+70,Kia,Niro PHEV,"EX
+			EX Premium
+			SX Touring","$2,500",2021,PHEV,2021-03-12
+71,Kia,Soul EV,"Premium 
+			Limited","$5,000",2021,BEV,2020-07-03
+72,Kia,Niro EV,"SX Touring
+			EX","$5,000",2020,BEV,2020-02-03
+73,Kia,Niro PHEV,"EX Premium
+			SX Touring","$2,500",2020,PHEV,2020-01-15
+74,Kia,Niro EV,"SX Touring
+			EX","$5,000",2019,BEV,2019-05-01
+75,Kia,Niro PHEV,"EX Premium
+			SX","$2,500",2019,PHEV,2019-05-01
+76,Kia,Optima PHEV,"EX
+			EX Premium","$2,500","2017/
+			2018/
+			2019/
+			2020",PHEV,2019-05-01
+77,Kia,Soul EV,"EV
+			EV Luxury
+			EV Luxury Sunroof
+			EV Premium
+			EV Limited","$5,000","2017/
+			2018/
+			2019/
+			2020",BEV,2019-05-01
+78,Lexus,NX 450h+, ,"$5,000",2022,PHEV,2022-04-25
+79,Lincoln,Corsair,Grand Touring,"$2,500",2022,PHEV,2022-04-25
+80,Lincoln,Corsair,Grand Touring,"$2,500",2021,PHEV,2022-04-25
+81,Mazda,MX-30,"GS
+			GT","$5,000",2022,BEV,2021-09-16
+82,MINI,3 Door Hatch,Cooper SE,"$5,000",2023,BEV,2022-04-07
+83,MINI,Countryman All4,Cooper SE,"$2,500",2023,PHEV,2022-04-07
+84,MINI,3 Door,Cooper SE,"$5,000",2022,BEV,2021-03-04
+85,MINI,Countryman,Cooper SE All4,"$2,500",2022,PHEV,2021-03-16
+86,MINI,Countryman,Cooper SE All4,"$2,500",2021,PHEV,2020-09-18
+87,MINI,Cooper SE 3 Door,"Classic
+			Premier
+			Premier+","$5,000","2020/
+			2021",BEV,2020-02-13
+88,MINI,Countryman,"Cooper S E All4
+			Cooper SE All4","$2,500","2018/
+			2019/
+			2020",PHEV,2019-05-01
+89,Mitsubishi,Outlander PHEV,"SE
+			LE
+			Black Edition
+			GT","$2,500",2022,PHEV,2021-07-06
+90,Mitsubishi,Outlander PHEV,"SE
+			LE
+			SEL
+			GT","$2,500",2021,PHEV,2021-03-15
+91,Mitsubishi,Outlander PHEV,"SE
+			LE
+			SEL
+			GT","$2,500",2020,PHEV,2019-08-26
+92,Mitsubishi,Outlander PHEV,"SE-Base
+			SE Limited Edition
+			SE Touring
+			GT","$2,500","2018/
+			2019",PHEV,2019-05-01
+93,Mitsubishi,i-MiEV,ES,"$5,000",2017,BEV,2019-08-26
+94,Nissan,Leaf,"SV
+			SV Plus
+			SL Plus","$5,000",2023,BEV,2022-04-13
+95,Nissan,Leaf,"SV
+			S Plus
+			SV Plus
+			SL Plus","$5,000",2022,BEV,2021-08-23
+96,Nissan,Leaf,"SV
+			S Plus
+			SV Plus
+			SL Plus","$5,000",2021,BEV,2020-11-20
+97,Nissan,Leaf,"S
+			SV
+			S Plus
+			SV Plus
+			SL Plus","$5,000",2020,BEV,2020-01-09
+98,Nissan,Leaf,"S
+			SV
+			SL
+			S Plus
+			SV Plus
+			SL Plus","$5,000",2018/2019,BEV,2019-05-01
+99,Polestar,2,"LRSM
+			LRDM","$5,000",2023,BEV,2022-04-25
+100,smart,EQ fortwo coupe,-,"$5,000","2018/
+			2019",BEV,2019-05-01
+101,smart,EQ fortwo cabriolet,-,"$5,000","2018/
+			2019",BEV,2019-05-01
+102,smart,fortwo electric drive cabriolet,-,"$5,000","2017/
+			2018",BEV,2019-05-01
+103,smart,fortwo electric drive coupe,-,"$5,000","2017/
+			2018",BEV,2019-05-01
+104,Subaru,Crosstrek Plug-In Hybrid,PHEV,"$2,500",2023,PHEV,2022-08-12
+105,Subaru,Crosstrek Plug-In Hybrid,PHEV,"$2,500",2022,PHEV ,2022-01-17
+106,Subaru,Crosstrek Plug-In Hybrid,Limited,"$2,500",2021,PHEV,2020-11-10
+107,Subaru,Crosstrek Plug-In Hybrid,Limited,"$2,500",2020,PHEV,2020-01-08
+108,Toyota,Mirai,XLE,"$5,000",2022,FCEV,2022-04-25
+109,Toyota,Prius Prime,"Base
+			Technology","$2,500",2022,PHEV,2021-06-22
+110,Toyota,RAV4 Prime,"SE
+			XSE","$5,000",2022,PHEV,2022-01-21
+111,Toyota,Prius Prime,"Base
+			Upgrade","$2,500",2021,PHEV,2020-07-20
+112,Toyota,RAV4 Prime,"SE
+			XSE","$5,000",2021,PHEV,2020-08-12
+113,Toyota,Prius Prime,"Base
+			Upgrade
+			Technology","$2,500",2020,PHEV,2019-06-06
+114,Toyota,Prius Prime,"Base
+			Upgrade
+			Technology","$2,500","2018/
+			2019",PHEV,2019-05-01
+115,Volkswagen,ID.4,"Pro
+			AWD Pro","$5,000",2022,BEV,2022-04-25
+116,Volkswagen,ID.4,"Pro
+			AWD Pro","$5,000",2021,BEV,2021-03-30
+117,Volkswagen,e-Golf,Comfortline,"$5,000",2020,BEV,2019-10-17
+118,Volkswagen,e-Golf,Comfortline,"$5,000",2019,BEV,2019-05-01
+119,Volkswagen,e-Golf,Comfortline,"$5,000","2017/
+			2018",BEV,2019-09-16
+120,Volvo,C40,Recharge,"$5,000",2023,BEV,2022-08-16
+121,Volvo,XC40,Recharge,"$5,000",2023,BEV,2022-08-16
+122,Volvo,V60 Recharge,R Design (Extended Range),"$5,000",2022,PHEV,2022-04-25
+123,Volvo,XC40 Recharge, ,"$5,000",2022,BEV,2022-04-25
