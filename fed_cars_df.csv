@@ -16,9 +16,9 @@
 9,BMW,i3,"Range Extender
 			s Range Extender","$5,000",2021,PHEV,2020-12-21
 10,BMW,X3,xDrive30e,"$2,500",2021,PHEV,2022-07-25
-11,BMW,i3,"Base
-			s","$5,000",2020,BEV,2020-01-16
-12,BMW,i3,,,2020,,Empty
+11,2020-01-16,2020-01-16,2020-01-16,2020-01-16,2020-01-16,2020-01-16,2020-01-16
+12,BMW,i3,"Range Extender
+			s Range Extender",$5000,2020,PHEV,Empty
 13,BMW,i3,"Base
 			s","$5,000",2018/2019,BEV,2019-05-29
 14,BMW,i3,"Range Extender
@@ -49,27 +49,21 @@
 25,Chrysler,Pacifica Hybrid,"Touring
 			Touring L
 			Limited","$5,000",2020,PHEV,2019-09-16
-26,Chrysler,Pacifica Hybrid,"Touring
-			Touring L
-			Touring Plus
-			Premium
-			Platinum
-			Limited","$5,000","2017/
-			2018/
-			2019",PHEV,2019-05-01
-27,Ford,*Escape PHEV,,,2022,,Empty
+26,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25
+27,Ford,*Escape PHEV,"SE
+			SEL
+			Titanium",$5000,2022,PHEV,2022-04-25
 28,Ford,Escape PHEV,"SE
 			SEL
 			Titanium","$2,500",2022,PHEV,2021-11-25
-29,Ford,Mach E,"Select RWD Standard Range
-			Select eAWD Standard Range
-			Premium RWD Standard range
-			Premium eAWD Standard range","$5,000",2022,BEV,2022-04-25
-30,Ford,*Escape PHEV,,,2021,,Empty
-31,Ford,Escape PHEV,"SE
+29,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25
+30,Ford,*Escape PHEV,"SE
 			SEL
-			Titanium","$2,500",2021,PHEV,2021-02-08
-32,Ford,*Escape PHEV,,,2020,,Empty
+			Titanium",$5000,2021,PHEV,2022-04-25
+31,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25
+32,Ford,*Escape PHEV,"SE
+			SEL
+			Titanium",$5000,2020,PHEV,2022-04-25
 33,Ford,Escape PHEV,"SE
 			SEL
 			Titanium","$2,500",2020,PHEV,2020-02-27
@@ -85,11 +79,11 @@
 38,Honda,Clarity Plug-in Hybrid,"Base
 			Touring","$5,000",2019,PHEV,2019-05-01
 39,Honda,Clarity Plug-in Hybrid,Base Touring,"$5,000",2018/2020,PHEV,2019-12-03
-40,Hyundai,Kona Electric,"Preferred
-Preferred - 2 tone
-Ultimate","$5,000",2023,BEV,2022-07-22
-41,Hyundai,*Santa Fe PHEV,,,2022,,Empty
-42,Hyundai,*Tucson PHEV,,,2022,,Empty
+40,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25
+41,Hyundai,*Sante Fe PHEV,"Preferred
+			Luxury",$5000,2022,PHEV,2022-04-25
+42,Hyundai,*Tucson PHEV,"Preferred
+			Luxury",$5000,2022,PHEV,2022-04-25
 43,Hyundai,IONIQ 5,"Essential
 			Preferred
 			Preferred Long Range
@@ -135,12 +129,10 @@ Ultimate","$5,000",2023,BEV,2022-07-22
 			2019",PHEV,2019-05-01
 61,Jeep,Wrangler 4xe,"Unlimited Sahara
 Unlimited Rubicon","$2,500",2022,PHEV,2022-04-25
-62,Jeep,Wrangler 4xe,"
-Unlimited Sahara
-Unlimited Sahara High Altitude
-Unlimited Rubicon
-","$2,500",2021,PHEV,2022-04-25
-63,Kia,*Sorento PHEV,,,2022,,Empty
+62,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25,2022-04-25
+63,Kia,*Sorento PHEV,"EX
+			EX+
+			SX",$5000,2022,PHEV,2022-04-25
 64,Kia,EV6,"RWD Standard Range
 			RWD Long Range
 			AWD Long Range","$5,000",2022,BEV,2022-02-01

@@ -1,52 +1,52 @@
-,Make,Model,Rebate-QC,Year-QC,Catagory
-0,Audi,Q4 e-tron – Komfort,$7 000,  2022,All-electric
-1,BMW, X3 – xDrive30e,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-2,BMW,3 Series – 330e or 330e xDrive,$2 500,  2021 - 2022,Plug-in hybrid
-3,BMW,i3,$7 000,  2020 - 2021,All-electric
-4,BMW,i3 REx and i3s Rex,$5 000,  2020 - 2021,Plug-in hybrid
-5,BMW,i3s,$7 000,  2020 - 2021,All-electric
-6,BMW,i4 eDrive40,$7 000,  2022,All-electric
-7,BYD,E6,$7 000,  2020,All-electric
-8,Chevrolet,Bolt EUV,$7 000,  2022,All-electric
-9,Chevrolet,Bolt EV,$7 000,  2020 - 2021 - 2022,All-electric
-10,Chrysler,Pacifica Hybrid,$5 000,  2020 - 2021 - 2022,Plug-in hybrid
-11,Ford,"Escape Plug-in Hybrid – SE, SEL or Titanium",$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-12,Ford,Fusion,$2 500,  2020,Plug-in hybrid
-13,Ford,Mustang Mach-E – Premium RWD and Standard Range or Select,$7 000,  2021,All-electric
-14,Ford,Mustang Mach-E – Select,$7 000,  2022,All-electric
-15,Honda,Clarity,$5 000,  2020 - 2021,Plug-in hybrid
-16,Hyundai,IONIQ,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-17,Hyundai,"IONIQ 5 Essential, Preferred, Preferred Long Range or Preferred AWD Long Range",$7 000,  2022,All-electric
-18,Hyundai,IONIQ Electric,$7 000,  2020 - 2021,All-electric
-19,Hyundai,IONIQ Plug-in Hybrid,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-20,Hyundai,Kona,$7 000,  2020 - 2021 - 2022,All-electric
-21,Hyundai,Santa Fe PHEV,$2 500,  2022,Plug-in hybrid
-22,Hyundai,Tucson PHEV,$2 500,  2022,Plug-in hybrid
-23,Jeep,Wrangler 4xe – High Altitude,$5 000,  2022,Plug-in hybrid
-24,Jeep,Wrangler 4xe – Rubicon or Sahara,$5 000,  2021 - 2022,Plug-in hybrid
-25,Kia,EV6,$7 000,  2022,All-electric
-26,Kia,Niro EV - EX Premium or SX Touring,$7 000,  2020 - 2021 - 2022,All-electric
-27,Kia,Niro PHEV – EX,$2 500,  2022,Plug-in hybrid
-28,Kia,Niro PHEV - EX Premium or SX Touring,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-29,Kia,Optima EX - Ex Premium,$2 500,  2020,Plug-in hybrid
-30,Kia,Sorento PHEV,$2 500,  2022,Plug-in hybrid
-31,Kia,Soul EV,$7 000,  2020 - 2021 - 2022,All-electric
-32,Lexus,NX 450h+,$5 000,  2022,Plug-in hybrid
-33,Lincoln,Corsair - Grand Touring  ,$2 500,  2021 - 2022,Plug-in hybrid
-34,Mazda,MX-30,$7 000,  2022,All-electric
-35,Mini,Cooper 3 Door,$7 000,  2020 - 2021 - 2022 - 2023,All-electric
-36,Mini,Countryman,$2 500,  2021 - 2022 - 2023,Plug-in hybrid
-37,Mitsubishi,Outlander PHEV,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-38,Nissan,Leaf and Leaf Plus,$7 000,  2020 - 2021 - 2022 - 2023,All-electric
-39,Polestar,Polestar 2,$7 000,  2022,All-electric
-40,Subaru,Crosstrek PHEV,$2 500,  2020 - 2021 - 2022 - 2023,Plug-in hybrid
-41,Tesla,Model 3 RWD,$7 000,  2022,All-electric
-42,Tesla,Model 3 Standard Range,$7 000,  2020 - 2021 - 2022,All-electric
-43,Tesla,Model 3 Standard Range Plus,$7 000,  2020 - 2021,All-electric
-44,Toyota,Prius Prime,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
-45,Toyota,RAV4 PRIME - SE or XSE,$5 000,  2021 - 2022,Plug-in hybrid
-46,Volkswagen,e-Golf,$7 000,  2020 - 2021,All-electric
-47,Volkswagen,ID.4 – Pro or AWD Pro,$7 000,  2021,All-electric
-48,Volvo,S60 Recharge R-Design,$5 000,  2022,Plug-in hybrid
-49,Volvo,V60 Recharge R-Design,$5 000,  2022,Plug-in hybrid
-50,Volvo,"XC40 Recharge - Core, Plus or Ultimate",$7 000,  2022,All-electric
+,Unnamed: 0,Make,Model,Rebate-QC,Year-QC,Catagory
+0,0,Audi,Q4 e-tron – Komfort,$7 000,  2022,All-electric
+1,1,BMW, X3 – xDrive30e,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+2,2,BMW,3 Series – 330e or 330e xDrive,$2 500,  2021 - 2022,Plug-in hybrid
+3,3,BMW,i3,$7 000,  2020 - 2021,All-electric
+4,4,BMW,i3 REx and i3s Rex,$5 000,  2020 - 2021,Plug-in hybrid
+5,5,BMW,i3s,$7 000,  2020 - 2021,All-electric
+6,6,BMW,i4 eDrive40,$7 000,  2022,All-electric
+7,7,BYD,E6,$7 000,  2020,All-electric
+8,8,Chevrolet,Bolt EUV,$7 000,  2022,All-electric
+9,9,Chevrolet,Bolt EV,$7 000,  2020 - 2021 - 2022,All-electric
+10,10,Chrysler,Pacifica Hybrid,$5 000,  2020 - 2021 - 2022,Plug-in hybrid
+11,11,Ford,"Escape Plug-in Hybrid – SE, SEL or Titanium",$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+12,12,Ford,Fusion,$2 500,  2020,Plug-in hybrid
+13,13,Ford,Mustang Mach-E – Premium RWD and Standard Range or Select,$7 000,  2021,All-electric
+14,14,Ford,Mustang Mach-E – Select,$7 000,  2022,All-electric
+15,15,Honda,Clarity,$5 000,  2020 - 2021,Plug-in hybrid
+16,16,Hyundai,IONIQ,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+17,17,Hyundai,"IONIQ 5 Essential, Preferred, Preferred Long Range or Preferred AWD Long Range",$7 000,  2022,All-electric
+18,18,Hyundai,IONIQ Electric,$7 000,  2020 - 2021,All-electric
+19,19,Hyundai,IONIQ Plug-in Hybrid,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+20,20,Hyundai,Kona,$7 000,  2020 - 2021 - 2022,All-electric
+21,21,Hyundai,Santa Fe PHEV,$2 500,  2022,Plug-in hybrid
+22,22,Hyundai,Tucson PHEV,$2 500,  2022,Plug-in hybrid
+23,23,Jeep,Wrangler 4xe – High Altitude,$5 000,  2022,Plug-in hybrid
+24,24,Jeep,Wrangler 4xe – Rubicon or Sahara,$5 000,  2021 - 2022,Plug-in hybrid
+25,25,Kia,EV6,$7 000,  2022,All-electric
+26,26,Kia,Niro EV - EX Premium or SX Touring,$7 000,  2020 - 2021 - 2022,All-electric
+27,27,Kia,Niro PHEV – EX,$2 500,  2022,Plug-in hybrid
+28,28,Kia,Niro PHEV - EX Premium or SX Touring,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+29,29,Kia,Optima EX - Ex Premium,$2 500,  2020,Plug-in hybrid
+30,30,Kia,Sorento PHEV,$2 500,  2022,Plug-in hybrid
+31,31,Kia,Soul EV,$7 000,  2020 - 2021 - 2022,All-electric
+32,32,Lexus,NX 450h+,$5 000,  2022,Plug-in hybrid
+33,33,Lincoln,Corsair - Grand Touring  ,$2 500,  2021 - 2022,Plug-in hybrid
+34,34,Mazda,MX-30,$7 000,  2022,All-electric
+35,35,Mini,Cooper 3 Door,$7 000,  2020 - 2021 - 2022 - 2023,All-electric
+36,36,Mini,Countryman,$2 500,  2021 - 2022 - 2023,Plug-in hybrid
+37,37,Mitsubishi,Outlander PHEV,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+38,38,Nissan,Leaf and Leaf Plus,$7 000,  2020 - 2021 - 2022 - 2023,All-electric
+39,39,Polestar,Polestar 2,$7 000,  2022,All-electric
+40,40,Subaru,Crosstrek PHEV,$2 500,  2020 - 2021 - 2022 - 2023,Plug-in hybrid
+41,41,Tesla,Model 3 RWD,$7 000,  2022,All-electric
+42,42,Tesla,Model 3 Standard Range,$7 000,  2020 - 2021 - 2022,All-electric
+43,43,Tesla,Model 3 Standard Range Plus,$7 000,  2020 - 2021,All-electric
+44,44,Toyota,Prius Prime,$2 500,  2020 - 2021 - 2022,Plug-in hybrid
+45,45,Toyota,RAV4 PRIME - SE or XSE,$5 000,  2021 - 2022,Plug-in hybrid
+46,46,Volkswagen,e-Golf,$7 000,  2020 - 2021,All-electric
+47,47,Volkswagen,ID.4 – Pro or AWD Pro,$7 000,  2021,All-electric
+48,48,Volvo,S60 Recharge R-Design,$5 000,  2022,Plug-in hybrid
+49,49,Volvo,V60 Recharge R-Design,$5 000,  2022,Plug-in hybrid
+50,50,Volvo,"XC40 Recharge - Core, Plus or Ultimate",$7 000,  2022,All-electric
