@@ -1,0 +1,40 @@
+(function ($) {
+  var tmpUrl = window.location.href.toString();
+  tmpUrl = tmpUrl.toLowerCase();
+  var Path="";
+  var nodeID="";
+  var Base_URL="";
+  var FeedbackLnk="";
+  
+  if(tmpUrl.indexOf("/edit")===-1){
+      if(tmpUrl.indexOf("/en")>0){
+        console.log(tmpUrl);
+        console.log("English");
+      Path = drupalSettings.path.currentPath;
+      nodeID = Path.substring(5,Path.length);
+      //var documentTitle = document.title.substring(0,256);
+      Base_URL = "/en/report-problem-signaler-probleme?source_entity_type=node&source_entity_id="+nodeID;
+      //var Base_URL = "/en/report-a-problem-with-this-page?source_entity_type=node&source_entity_id="+nodeID+"&page_url="+window.location.pathname+"&page_title="+documentTitle;
+      
+      FeedbackLnk = document.getElementById("tc-feedback-link");
+      if (FeedbackLnk){
+        FeedbackLnk.setAttribute("href", Base_URL);
+      }
+    }
+    if(tmpUrl.indexOf("/fr")>0){
+      console.log(tmpUrl);
+      console.log("French");
+      Path = drupalSettings.path.currentPath;
+      nodeID = Path.substring(5,Path.length);
+      //var documentTitle = document.title.substring(0,256);
+      Base_URL = "/fr/report-problem-signaler-probleme?source_entity_type=node&source_entity_id="+nodeID;
+      
+      FeedbackLnk = document.getElementById("tc-feedback-link");
+      if (FeedbackLnk){
+        FeedbackLnk.setAttribute("href", Base_URL);
+      }
+    }
+  }
+  
+}(jQuery));
+;
