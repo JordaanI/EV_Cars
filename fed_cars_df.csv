@@ -126,10 +126,10 @@
 148,Hyundai,Kona Electric,Ultimate,"$5,000",2020,BEV,2019-10-15
 149,Hyundai,Ioniq electric Plus,SE,"$2,500",2018,PHEV,2019-06-17
 150,Hyundai,Ioniq electric Plus,Limited,"$2,500",2018,PHEV,2019-06-17
-154,Hyundai,Ioniq Electric,Preferred,"$5,000", 2019,BEV,2019-05-01
-155,Hyundai,Ioniq Electric,Ultimate,"$5,000", 2019,BEV,2019-05-01
-156,Hyundai,Ioniq electric Plus,Preferred,"$2,500", 2019,PHEV,2019-05-01
-157,Hyundai,Ioniq electric Plus,Ultimate,"$2,500", 2019,PHEV,2019-05-01
+154,Hyundai,Ioniq Electric,Preferred,"$5,000",2019,BEV,2019-05-01
+155,Hyundai,Ioniq Electric,Ultimate,"$5,000",2019,BEV,2019-05-01
+156,Hyundai,Ioniq electric Plus,Preferred,"$2,500",2019,PHEV,2019-05-01
+157,Hyundai,Ioniq electric Plus,Ultimate,"$2,500",2019,PHEV,2019-05-01
 158,Kia,*Sorento PHEV,EX,$5000,2022,PHEV,2022-04-25
 159,Kia,*Sorento PHEV,EX+,$5000,2022,PHEV,2022-04-25
 160,Kia,*Sorento PHEV,SX,$5000,2022,PHEV,2022-04-25
@@ -222,7 +222,7 @@
 272,Jeep,Wrangler 4xe,,"$2,500",2021,PHEV,2022-04-25
 273,Honda,Clarity Plug-in Hybrid,Base Touring,"$5,000",2018,PHEV,2019-12-03
 274,Honda,Clarity Plug-in Hybrid,Base Touring,"$5,000",2020,PHEV,2019-12-03
-275,Hyundai,Sonata PHEV,Ultimate,"$2,500", 2018,PHEV,2019-05-01
+275,Hyundai,Sonata PHEV,Ultimate,"$2,500",2018,PHEV,2019-05-01
 276,Hyundai,Sonata PHEV,Ultimate,"$2,500",2019,PHEV,2019-05-01
 277,smart,EQ fortwo coupe,-,"$5,000",2018,BEV,2019-05-01
 278,smart,EQ fortwo coupe,-,"$5,000",2019,BEV,2019-05-01
