@@ -31,19 +31,20 @@ def separator(series,separator,column,suffix):
     df = pd.DataFrame()
     str = series[column]
     res = re.split(separator, str)
+    res = [trim.strip().upper() for trim in res]
     for ind in res:
         car_make = series['Make']
         car_model = series['Model']
         car_category = series['Category']
-        car_rebate = series['Rebate-' + suffix]
+        car_rebate = series['Rebate-'+suffix]
         car_eligibility = series['Eligibility']
         if column == 'Trim':
-            car_model_year = series['Year-' + suffix]
-            temp_dict={'Make':car_make,'Model':car_model, 'Trim':ind,'Rebate-' + suffix:car_rebate,'Year-' + suffix:car_model_year,'Category':car_category,'Eligibility':car_eligibility}
+            car_model_year = series['Year']
+            temp_dict={'Make':car_make,'Model':car_model, 'Trim':ind,'Rebate-'+suffix:car_rebate,'Year':car_model_year,'Category':car_category,'Eligibility':car_eligibility}
             df = df.append(temp_dict, ignore_index=True)
         else:
             car_trim = series['Trim']
-            temp_dict={'Make':car_make,'Model':car_model,'Trim': car_trim,'Rebate-' + suffix:car_rebate,'Year-' + suffix:ind,'Category':car_category,'Eligibility':car_eligibility}
+            temp_dict={'Make':car_make,'Model':car_model,'Trim': car_trim,'Rebate-'+suffix:car_rebate,'Year':ind,'Category':car_category,'Eligibility':car_eligibility}
             df = df.append(temp_dict, ignore_index=True)
     return df
 
